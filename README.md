@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rohit Sharma
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning MLOps and creating pipelines for production in ML.
-- 💞️ I’m looking to collaborate on ML related projects regarding racing;.
+- 👀 I’m interested in Machine Learning, Natural Language Processing, and Computer Vision
+- 🌱 I’m currently advancing my skills in MLOps and scalable ML systems as I pursue my MSc in Artificial Intelligence
+- 💞️ I’m looking to collaborate on innovative ML projects, especially those in motorsport.
 - 📫 How to reach me: Drop me a mail at r49.sharma@gmail.com
 
 <!---
